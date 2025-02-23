@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi! I'm Andrius, a Computer Science student who loves coding and exploring new technologies.
+- 🌱 I’m currently learning data structure.
+- 🚀 Current Project: Developing an interactive online puzzle game for children.
+- 💻 Languages: C, Python.
+- ⚙️ Tools: Git, VS Code.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richtjhie-hartawan-agusta-405883259)
 
 <!--
 **RichtjhieHartawanAgusta/RichtjhieHartawanAgusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
