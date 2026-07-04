@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Richtjhie, a Computer Science student who loves coding and exploring new technologies.
-- 🌱 I’m currently learning data structure.
-- 🚀 Current Project: Developing an interactive online puzzle game for children.
-- 💻 Languages: C, Python.
+- 🌱 I’m currently learning machine learning
+- 🚀 Current Project: Developing a scrolling game.
+- 💻 Languages: C, C#, Python.
 - ⚙️ Tools: Git, VS Code.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richtjhie-hartawan-agusta-405883259)
 
